@@ -1,11 +1,12 @@
 # 2018 KDD CUP of Fresh Air
 * Task Introduction: https://biendata.com/competition/kdd_2018/
-* Final Rank: https://biendata.com/competition/kdd_2018/ranking_list/
+* Final Ranking: https://biendata.com/competition/kdd_2018/ranking_list/
 
 
 # Who We Are
 
 * Team name —— Zugzug
+* Team Ranking —— 9 of 4177
 * Team members (ordered by name initials):
   * Can Wang
   * Hao Li
