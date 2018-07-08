@@ -1,8 +1,8 @@
 # 代码执行顺序：
-python lihao_result_master.py   # 生成result_lh.csv
-python get_data_from_API.py     # 更新aqi文件，为计算融合的权重做准备
-python result_aqicn.py          # 获取aqicn的预测结果
-python result_merge.py          # 进行结果融合
+* python lihao_result_master.py   # 生成result_lh.csv
+* python get_data_from_API.py     # 更新aqi文件，为计算融合的权重做准备
+* python result_aqicn.py          # 获取aqicn的预测结果
+* python result_merge.py          # 进行结果融合
 
 
 # lihao 模型思路:
